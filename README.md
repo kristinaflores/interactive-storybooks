@@ -1,2 +1,2 @@
-# interactive-stories
-Stories in the form of Choose-Your-Own-Adventure
+# interactive-troubleshooting-guide
+Self-help troubleshooting in the form of interactive decision trees
